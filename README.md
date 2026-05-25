@@ -15,7 +15,7 @@ second will control the right paddle. Control with the mouse wheel.
 ./<protocol>_client <Server Hostname> <Server Port>
 ```
 
-## Player Server:
+## Hosts:
 In this implementation the game logic is handled on the side of one of the players
 
 ```
